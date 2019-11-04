@@ -1,2 +1,2 @@
 # MachineLearningAndKnowledgeExtraction
-Machine Learning and Knowledge Extraction
+Paper about Reinforcement Learning, Artificial Neural Networks and Support Vector Machines. 
